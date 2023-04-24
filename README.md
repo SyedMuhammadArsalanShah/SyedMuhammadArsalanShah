@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm SyedMuhammadArsalanShah</h1>
 
-<img align="right" alt="Coding"    width="500" height="500"  src="https://www.canva.com/design/DAFg8jvvj-I/k-MXDan3Ann9Y6LYT5Qqkg/view?utm_content=DAFg8jvvj-I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+<img align="right" alt="Coding"    width="500" height="500"  src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smarsalanshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smarsalanshah" height="30" width="40" /></a>
