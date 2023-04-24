@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAwNGE1Yjc2ZjFiYjg0ZjcxNzJjOGY5YmY2NGM3MGE5YWRmNTBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAwNGE1Yjc2ZjFiYjg0ZjcxNzJjOGY5YmY2NGM3MGE5YWRmNTBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
-<p align="left">Assalam U Alaikum!👋<br>I'm Syed Muhammad Arsalan Shah, an Islamic Studies And Software Engineering Student with a passion for teaching and learning.</p>
+<h3 align="center">Assalam U Alaikum!👋<br>I'm Syed Muhammad Arsalan Shah,<br> an Islamic Studies And Software Engineering Student with a passion for teaching and learning.</h3>
 
 ###
 
@@ -71,10 +71,10 @@
   <a href="https://www.linkedin.com/in/syedmuhammadarsalanshah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/qr/DVXFGTS7PGNJI1 https://wa.me/qr/DVXFGTS7PGNJI1 " target="_blank">
+  <a href="https://wa.me/923032006225" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
   </a>
-  <a href="smarsalanshah125@gmail.com" target="_blank">
+  <a href="mailto:smarsalanshah125@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/SMArsalanShah" target="_blank">
@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/output/snake.svg)
+<img src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
