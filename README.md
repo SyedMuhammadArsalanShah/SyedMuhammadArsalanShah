@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/output/snake.svg)
+![Snake animation](https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/output/snake.svg)
 
 ###
 
