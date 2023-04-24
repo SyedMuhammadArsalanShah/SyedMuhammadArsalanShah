@@ -92,8 +92,8 @@
 
 <br clear="both">
 
+![Snake animation](https://raw.githubusercontent.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/output/snake.svg)
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/snake.svg)
 ###
 
 <br clear="both">
