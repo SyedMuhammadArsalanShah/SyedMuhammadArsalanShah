@@ -14,12 +14,12 @@
 
 ###
 
-<h3 align="left">𝔄𝔰𝔰𝔞𝔩𝔞𝔪 𝔘 𝔄𝔩𝔞𝔦𝔨𝔲𝔪!👋 ℑ'𝔪 𝔖𝔶𝔢𝔡 𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡 𝔄𝔯𝔰𝔞𝔩𝔞𝔫 𝔖𝔥𝔞𝔥,<br> 𝔞𝔫 ℑ𝔰𝔩𝔞𝔪𝔦𝔠 𝔖𝔱𝔲𝔡𝔦𝔢𝔰 𝔄𝔫𝔡 𝔖𝔬𝔣𝔱𝔴𝔞𝔯𝔢 𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯𝔦𝔫𝔤 𝔖𝔱𝔲𝔡𝔢𝔫𝔱 𝔴𝔦𝔱𝔥 𝔞 𝔭𝔞𝔰𝔰𝔦𝔬𝔫 𝔣𝔬𝔯 𝔱𝔢𝔞𝔠𝔥𝔦𝔫𝔤 𝔞𝔫𝔡 𝔩𝔢𝔞𝔯𝔫𝔦𝔫𝔤.</h3>
- <div align="center">
+<p align="left">𝕬𝖘𝖘𝖆𝖑𝖆𝖒 𝖀 𝕬𝖑𝖆𝖎𝖐𝖚𝖒!👋 𝕴'𝖒 𝕾𝖞𝖊𝖉 𝕸𝖚𝖍𝖆𝖒𝖒𝖆𝖉 𝕬𝖗𝖘𝖆𝖑𝖆𝖓 𝕾𝖍𝖆𝖍,<br> 𝖆𝖓 𝕴𝖘𝖑𝖆𝖒𝖎𝖈 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 𝕬𝖓𝖉 𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 𝖜𝖎𝖙𝖍 𝖆 𝖕𝖆𝖘𝖘𝖎𝖔𝖓 𝖋𝖔𝖗 𝖙𝖊𝖆𝖈𝖍𝖎𝖓𝖌 𝖆𝖓𝖉 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌.✍</p>
+ 
  <a href="https://syedmuhammadarsalanshah.github.io/SMAS/" target="_blank">
- <img src="https://site.ieee.org/sb-bvcoend/files/2018/07/readmore.gif" height="100"  alt="readmore"  />
+ <img src="https://i0.wp.com/moroccoenglish.com/me-md/2018/08/timigate-readmore.gif" height="80"  alt="readmore"  />
  </a>
- </div>
+
 
 ###
 
