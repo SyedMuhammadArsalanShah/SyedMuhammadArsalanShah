@@ -104,7 +104,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedMuhammadArsalanShah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadArsalanShah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SyedMuhammadArsalanShah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SyedMuhammadArsalanShah&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&card_width=600" height="200" alt="streak graph"  />
 
