@@ -14,7 +14,12 @@
 
 ###
 
-<h2 align="left">𝕬𝖘𝖘𝖆𝖑𝖆𝖒 𝖀 𝕬𝖑𝖆𝖎𝖐𝖚𝖒!👋 𝕴'𝖒 𝕾𝖞𝖊𝖉 𝕸𝖚𝖍𝖆𝖒𝖒𝖆𝖉 𝕬𝖗𝖘𝖆𝖑𝖆𝖓 𝕾𝖍𝖆𝖍,<br> 𝖆𝖓 𝕴𝖘𝖑𝖆𝖒𝖎𝖈 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 𝕬𝖓𝖉 𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 𝖜𝖎𝖙𝖍 𝖆 𝖕𝖆𝖘𝖘𝖎𝖔𝖓 𝖋𝖔𝖗 𝖙𝖊𝖆𝖈𝖍𝖎𝖓𝖌 𝖆𝖓𝖉 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌.✍
+<h2 align="left">Assalam U Alaikum !,👋<br> I am <strong>Syed Muhammad Arsalan Shah.</strong> <br>
+
+I have been teaching multiple IT skills in Aptech  and working as a Center Academic Head in  Aptech Gulshan II.
+
+I have completed three year Diploma in IT and one year course of Application Development. Currently, I am enrolled in the graduation degree of BS in Islamic Studies with Computer Technology  along with Aalim course 7th year. 
+✍
 <br>
  <a href="https://syedmuhammadarsalanshah.github.io/SMAS/" target="_blank">
  <img src="https://i0.wp.com/moroccoenglish.com/me-md/2018/08/timigate-readmore.gif" height="80"  alt="readmore"  />
