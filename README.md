@@ -16,7 +16,7 @@
 
 <h2 align="left">Assalam U Alaikum !,👋<br> I am <strong>Syed Muhammad Arsalan Shah.</strong> <br>
 
-I have been teaching multiple IT skills in Aptech  and working as a Center Academic Head in  Aptech Gulshan II.
+I have been teaching multiple IT skills in Aptech Gulshan II.
 
 I have completed three year Diploma in IT and one year course of Application Development. Currently, I am enrolled in the graduation degree of BS in Islamic Studies with Computer Technology  along with Aalim course 7th year. 
 ✍
