@@ -121,7 +121,7 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <br clear="both">
 <div align="center">
-<img src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/output/snake.svg" alt="Snake animation" /> -->
 </div>
 
 ###
