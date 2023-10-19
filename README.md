@@ -11,9 +11,6 @@
 
 <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAwNGE1Yjc2ZjFiYjg0ZjcxNzJjOGY5YmY2NGM3MGE5YWRmNTBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="syedmuhammadarsalanshah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/syedmuhammadarsalanshah?trk=profile-badge">Syed Muhammad Arsalan Shah</a></div>
-              
 
 ###
 
