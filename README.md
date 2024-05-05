@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHlw-i-jvH0gg/profile-displaybackgroundimage-shrink_350_1400/0/1695108852257?e=1714608000&v=beta&t=Jnd8e0DMsWO5570zleqHXp-vQvk1Or8tq-bFFHQSbBE)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHlw-i-jvH0gg/profile-displaybackgroundimage-shrink_350_1400/0/1695108852257?e=1720656000&v=beta&t=Nrca1chH2bznFu7b9TLv8u-dpSi76fEecYXqVnS5K_U)
 
 
 <br clear="both">
@@ -7,10 +7,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SyedMuhammadArsalanShah.SyedMuhammadArsalanShah&"  />
 </div>
 
-###
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAwNGE1Yjc2ZjFiYjg0ZjcxNzJjOGY5YmY2NGM3MGE5YWRmNTBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
+
+
+<img align="right" height="300" src="https://i.pinimg.com/originals/b4/84/82/b484827ed7fce1b6cf3b106850deecd2.jpg"  />
 
 ###
 
@@ -18,7 +19,7 @@
 
 I have been teaching multiple IT skills in Aptech Gulshan II.
 
-I have completed three year Diploma in IT and one year course of Application Development. Currently, I am enrolled in the graduation degree of BS in Islamic Studies with Computer Technology  along with Aalim course 7th year. 
+I have completed three year Diploma in IT and one year course of Application Development. Currently, I am enrolled in the graduation degree of BS in Islamic Studies with Computer Technology  along with Aalim course 8th year. 
 ✍
 <br>
  <a href="https://syedmuhammadarsalanshah.github.io/SMAS/" target="_blank">
