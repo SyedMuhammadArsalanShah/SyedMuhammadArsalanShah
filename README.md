@@ -99,10 +99,10 @@ I have completed three year Diploma in IT and one year course of Application Dev
   <a href="https://twitter.com/SMArsalanShah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/SyedMuhammadArsalanShah/" target="_blank">
+  <a href="https://www.facebook.com/SyedMuhammadArsalanShahBukhari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/syedmuhammadarsalanshah/" target="_blank">
+  <a href="https://www.instagram.com/syedmuhammadarsalanshahbukhari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
 </div>
