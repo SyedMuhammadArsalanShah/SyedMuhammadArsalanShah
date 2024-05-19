@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHlw-i-jvH0gg/profile-displaybackgroundimage-shrink_350_1400/0/1695108852257?e=1720656000&v=beta&t=Nrca1chH2bznFu7b9TLv8u-dpSi76fEecYXqVnS5K_U)
+![MasterHead](https://i.pinimg.com/originals/26/93/87/2693873b6eb296087ae2280a20812986.jpg)
 
 
 <br clear="both">
@@ -8,15 +8,7 @@
 </div>
 
 
-
-
-
-<img align="right" height="350"  src="https://scontent.fkhi6-2.fna.fbcdn.net/v/t39.30808-6/436139686_459951079694499_1294745225477051402_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHhtTCUhvyfVHugd0ZKjHm_PlVN7fvicO4-VU3t--Jw7pJrVQBcS7dkT8WCSoCTc_R_XwLiaXWFJEjrWMvWhnCs&_nc_ohc=OfYOlBYLMxwQ7kNvgHeoH7c&_nc_ht=scontent.fkhi6-2.fna&oh=00_AfCL5PTTNErP_NBWt9ItQFIUh9NM-3MqB0GXa-RTYp0nGA&oe=663DF263"  />
-
-
-###
-
-<h2 align="left">Assalam U Alaikum !,👋<br> I am <strong>Syed Muhammad Arsalan Shah.</strong> <br>
+<h2 align="center">Assalam U Alaikum !,👋<br> I am <strong>Syed Muhammad Arsalan Shah.</strong> <br>
 
 I have been teaching multiple IT skills in Aptech Gulshan II.
 
@@ -28,13 +20,26 @@ I have completed three year Diploma in IT and one year course of Application Dev
  </a>
 </h2>
 
-###
+<br clear="both">
+
+<h2 align="center">📖 Best Quranic Duas & Motivational Ayahs</h2>
+
+
 
 <br clear="both">
 
-<h2 align="center">PROFESSIONAL SKILLS</h2>
+<img align="left" height="400"  src="https://i.pinimg.com/originals/f4/16/3f/f4163fd418f14db62527cf9228b5d8cb.jpg"  />
 
-###
+<img align="right" height="400"  src="https://scontent.fkhi6-2.fna.fbcdn.net/v/t39.30808-6/436139686_459951079694499_1294745225477051402_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHhtTCUhvyfVHugd0ZKjHm_PlVN7fvicO4-VU3t--Jw7pJrVQBcS7dkT8WCSoCTc_R_XwLiaXWFJEjrWMvWhnCs&_nc_ohc=OfYOlBYLMxwQ7kNvgHeoH7c&_nc_ht=scontent.fkhi6-2.fna&oh=00_AfCL5PTTNErP_NBWt9ItQFIUh9NM-3MqB0GXa-RTYp0nGA&oe=663DF263"  />
+
+
+
+
+<br clear="both">
+
+<h2 align="center">🚀 Professional Skills</h2>
+
+
 
 <br clear="both">
 
@@ -79,7 +84,7 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <br clear="both">
 
-<h2 align="center">CONNECT WITH ME:</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 ###
 
@@ -109,7 +114,9 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 ###
 
+<br clear="both">
 
+<h2 align="center"> 📈 My GitHub Insights 📊</h2>
 
 <br clear="both">
 
