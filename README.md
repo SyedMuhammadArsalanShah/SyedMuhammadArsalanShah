@@ -104,10 +104,13 @@ I have completed three year Diploma in IT and one year course of Application Dev
 **Source Code** <a href="https://github.com/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application/" target="_blank">Islamic-Insights-Hub-Application</a>
 
 **Contact:** [Islamic Insights Hub](mailto:smarsalanshah125@gmail.com)
+
 **Video Presentation:** [Watch Video Presentation](https://youtu.be/SVu7d4OCWQM?si=BVLTXRhTuVFdF6EA)
 </div>
 
-
+<video width="320" height="240" controls>
+  <source src="images/Islamic Insights Hub Application (Quranic and Hadith Search Engine).mp4" type="video/mp4">
+</video>
 
 <br clear="both">
 
