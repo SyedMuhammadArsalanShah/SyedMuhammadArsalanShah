@@ -107,11 +107,11 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 **Video Presentation:** [Watch Video Presentation](https://youtu.be/SVu7d4OCWQM?si=BVLTXRhTuVFdF6EA)
 </div>
-
+<div align="left">
 <video width="320" height="240" controls>
   <source src="images/Islamic Insights Hub Application (Quranic and Hadith Search Engine).mp4" type="video/mp4">
 </video>
-
+</div>
 <br clear="both">
 
 <h2 align="center">🌐 Connect With Me</h2>
