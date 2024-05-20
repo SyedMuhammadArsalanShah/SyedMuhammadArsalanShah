@@ -106,13 +106,9 @@ I have completed three year Diploma in IT and one year course of Application Dev
 </div>
 
 <div align="right">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVu7d4OCWQM?si=DknA2ix8WS6gU7JJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SVu7d4OCWQM?si=DknA2ix8WS6gU7JJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
 <br clear="both">
 
 <h2 align="center">🌐 Connect With Me</h2>
