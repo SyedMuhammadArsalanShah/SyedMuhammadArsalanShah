@@ -28,9 +28,9 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <br clear="both">
 
-<img align="left" height="350"  src="images/i2.jpg"  />
+<img align="left"  height="380"  src="images/i2.jpg"  />
 
-<img align="right" height="350"  src="images/i1.jpg"  />
+<img align="right"  height="380"  src="images/i1.jpg"  />
 
 
 
@@ -82,6 +82,37 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 ###
 
+
+<br clear="both">
+<h2 align="center">📱 Islamic Insights Hub</h2>
+<br clear="both">
+<div align="left">
+
+**Duration:** Nov 2023 - Dec 2023  
+**Affiliation:** Sheikh Zayed Islamic Center, University of Karachi
+
+**Features:**
+- 📖 Read the entire Quran
+- 🔍 Search Quranic Verses by user-friendly Urdu keyboard 
+- 📖 Explore 9 Authentic Hadith Collections
+- 🔍 Search Hadith by Number, Arabic, Urdu, English
+
+
+**Tech:** Flutter, API-based architecture
+
+**Source Code** <a href="https://github.com/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application/" target="_blank">Islamic-Insights-Hub-Application</a>
+
+**Contact:** [Islamic Insights Hub](mailto:smarsalanshah125@gmail.com)
+</div>
+
+<div align="right">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SVu7d4OCWQM?si=DknA2ix8WS6gU7JJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+</div>
 <br clear="both">
 
 <h2 align="center">🌐 Connect With Me</h2>
@@ -111,6 +142,10 @@ I have completed three year Diploma in IT and one year course of Application Dev
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
 </div>
+
+
+
+
 
 ###
 
