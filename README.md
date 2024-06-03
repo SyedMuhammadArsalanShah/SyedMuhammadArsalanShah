@@ -32,7 +32,16 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <img align="right"  height="350"  src="images/i1.jpg"  />
 
+<br clear="both">
+<h2 align="center">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي || Mishary Alafasy Ruqiah </h2>
 
+
+
+https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/assets/77351219/81598e39-09b9-4f1f-9a90-0343f2955bca
+
+
+
+<br clear="both">
 
 
 <br clear="both">
