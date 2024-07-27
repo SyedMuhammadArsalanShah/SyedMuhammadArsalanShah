@@ -28,10 +28,10 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <br clear="both">
 
-<img align="left"  height="200"  src="images/i2.jpg"  />
+<img align="left"  height="100"  src="images/i2.jpg"  />
 
-<img align="center"  height="200"  src="images/i1.jpg"  />
-<img align="right"  height="200"  src="images/i3.jpg"  />
+<img align="center"  height="150"  src="images/i1.jpg"  />
+<img align="right"  height="100"  src="images/i3.jpg"  />
 
 <br clear="both">
 <h2 align="center">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي || Mishary Alafasy Ruqiah </h2>
