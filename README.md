@@ -30,7 +30,7 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <img align="left"  height="150"  src="images/i2.jpg"  />
 
-<img align="left"  height="200"  src="images/i1.jpg"  />
+<img align="center"  height="200"  src="images/i1.jpg"  />
 <img align="left"  height="150"  src="images/i3.jpg"  />
 
 <br clear="both">
