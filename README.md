@@ -41,6 +41,10 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 
 
+https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
+
+
+
 
 
 <br clear="both">
@@ -122,7 +126,8 @@ I have completed three year Diploma in IT and one year course of Application Dev
 <div align="center">
 
 
-https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/assets/77351219/5bd3cd95-e51d-49db-8899-78d79151cacf
+https://github.com/user-attachments/assets/be1dbcec-12b5-4f4c-90b6-4d9428d01cce
+
 
 
 </div>
