@@ -1,12 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/26/93/87/2693873b6eb296087ae2280a20812986.jpg)
 
-
 <br clear="both">
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SyedMuhammadArsalanShah.SyedMuhammadArsalanShah&"  />
-</div>
 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SyedMuhammadArsalanShah.SyedMuhammadArsalanShah&"  />
+  
+  ![IStandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
+
+</div>
 
 <h2 align="center">Assalam U Alaikum !,👋<br> I am <strong>Syed Muhammad Arsalan Shah.</strong> <br>
 
