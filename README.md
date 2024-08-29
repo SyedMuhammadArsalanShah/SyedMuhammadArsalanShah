@@ -23,6 +23,10 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <br clear="both">
 
+
+
+
+
 <h2 align="center">📖 Best Quranic Duas & Motivational Ayahs</h2>
 
 
@@ -35,7 +39,17 @@ I have completed three year Diploma in IT and one year course of Application Dev
   <img height="250" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
 </div>
 
+
+
 <br clear="both">
+<div align="center">
+  
+  ## My Recent Spotify Favorites
+  <a href="https://open.spotify.com/user/31dcu6tk43oxl6bmqwpfwcvvmmo4"  target="_blank">
+    
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dcu6tk43oxl6bmqwpfwcvvmmo4&count=7&width=700)
+  </a>
+</div>
 <h2 align="center">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي || Mishary Alafasy Ruqiah </h2>
 
 
