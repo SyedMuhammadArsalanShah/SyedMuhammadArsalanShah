@@ -33,11 +33,13 @@ I have completed three year Diploma in IT and one year course of Application Dev
 
 <br clear="both">
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img height="250" src="images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
-  <img height="250" src="images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
-  <img height="250" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+  <img height="200" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
+  <img height="200" src="images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
+  <img height="200" src="images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
+  <img height="200" src="images/i4.jpg" alt="Dua Image 4" style="margin: 0 20px;" />
 </div>
+
 
 
 
