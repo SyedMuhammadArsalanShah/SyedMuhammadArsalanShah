@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/26/93/87/2693873b6eb296087ae2280a20812986.jpg)
+![MasterHead](https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/SMAS-Cover.png)
 
 <br clear="both">
 <div align="center">
