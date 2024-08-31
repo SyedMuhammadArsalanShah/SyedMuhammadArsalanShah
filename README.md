@@ -9,17 +9,14 @@
 
 </div>
 
-<h2 align="center">Assalam U Alaikum !,👋<br> I am <strong>Syed Muhammad Arsalan Shah.</strong> <br>
-
-I have been teaching multiple IT skills in Aptech Gulshan II.
-
-I have completed three year Diploma in IT and one year course of Application Development. Currently, I am enrolled in the graduation degree of BS in Islamic Studies with Computer Technology  along with Aalim course 8th year. 
-✍
-<br>
- <a href="https://syedmuhammadarsalanshah.github.io/SMAS/" target="_blank">
- <img src="https://i0.wp.com/moroccoenglish.com/me-md/2018/08/timigate-readmore.gif" height="80"  alt="readmore"  />
- </a>
+<h2 align="center">
+  Assalam U Alaikum! 👋<br>
+  I am <strong>Syed Muhammad Arsalan Shah✍</strong><br><br>
+  <a href="https://syedmuhammadarsalanshah.github.io/Portfolio/" target="_blank">
+    <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
+  </a>
 </h2>
+
 
 <br clear="both">
 
