@@ -110,7 +110,40 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
 </div>
 
 ###
+<br clear="both">
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VaCr8pqDZ4LZ1Fo46N1d" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="50" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/SyedMuhammadArsalanShahBukhari" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/syedmuhammadarsalanshah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/syedmuhammadarsalanshahbukhari/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@SyedMuhammadArsalanShah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="65" height="50" alt="medium logo"  />
+  </a>
+  <a href="https://www.youtube.com/@syedmuhammadarsalanshah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="50" alt="youtube logo"  />
+  </a>
+  <a href="smarsalanshah125@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/SMArsalanShah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
+  </a>
+</div>
 
 <br clear="both">
 <h2 align="center">📱 Islamic Insights Hub</h2>
@@ -144,35 +177,6 @@ https://github.com/user-attachments/assets/be1dbcec-12b5-4f4c-90b6-4d9428d01cce
 
 
 
-</div>
-<br clear="both">
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/syedmuhammadarsalanshah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  </a>
-<!--   <a href="https://wa.me/923032006225" target="_blank"> -->
-<a href="https://whatsapp.com/channel/0029VaCr8pqDZ4LZ1Fo46N1d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:smarsalanshah125@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/SMArsalanShah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/SyedMuhammadArsalanShahBukhari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/syedmuhammadarsalanshahbukhari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-  </a>
 </div>
 
 
