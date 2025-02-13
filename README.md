@@ -29,7 +29,7 @@
 
 
 
-<h2 align="center">📖 Best Quranic Duas & Motivational Ayahs</h2>
+<h2 align="left">📖 Best Quranic Duas & Motivational Ayahs</h2>
 
 
 
@@ -54,7 +54,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dcu6tk43oxl6bmqwpfwcvvmmo4&count=7&width=700)
   </a>
 </div>
-<h2 align="center">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي || Mishary Alafasy Ruqiah </h2>
+<h2 align="left">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي | Mishary Alafasy Ruqiah </h2>
 
 
 
@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
 
 <br clear="both">
 
-<h2 align="center">🚀 Professional Skills</h2>
+<h2 align="left">🚀 Professional Skills</h2>
 
 
 
@@ -117,7 +117,7 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
 ###
 <br clear="both">
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
 ###
 
@@ -151,7 +151,7 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
 </div>
 
 <br clear="both">
-<h2 align="center">📱 Islamic Insights Hub</h2>
+<h2 align="left">📱 Islamic Insights Hub</h2>
 <br clear="both">
 
 <div align="left">
@@ -192,7 +192,7 @@ https://github.com/user-attachments/assets/be1dbcec-12b5-4f4c-90b6-4d9428d01cce
 
 <br clear="both">
 
-<h2 align="center"> 📈 My GitHub Insights 📊</h2>
+<h2 align="left"> 📈 My GitHub Insights 📊</h2>
 
 <br clear="both">
 
