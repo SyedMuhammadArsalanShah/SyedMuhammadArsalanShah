@@ -9,13 +9,18 @@
 
 </div>
 
-<h2 align="center">
-  Assalam U Alaikum! 👋<br>
-  I am <strong>Syed Muhammad Arsalan Shah✍</strong><br><br>
-  <a href="https://syedmuhammadarsalanshah.github.io/Portfolio/" target="_blank">
-    <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
-  </a>
-</h2>
+## 🌟 Assalam U Alaikum! 👋  
+### I'm **Syed Muhammad Arsalan Shah** ✍
+
+🔹 **IT Instructor | Software Developer | Researcher**  
+🔹 Specializing in **Flutter, PHP, Python, AI, and Data Science**  
+🔹 Passionate about **Islamic Software Development, AI Research, and Open Source**  
+
+📌 **Portfolio:** [Visit Here](https://syedmuhammadarsalanshah.github.io/Portfolio/)  
+📌 **GitHub Repositories:** [Explore Now](https://github.com/SyedMuhammadArsalanShah)  
+
+---
+
 
 
 <br clear="both">
