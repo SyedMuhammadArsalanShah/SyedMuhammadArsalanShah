@@ -149,44 +149,46 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
   </a>
 </div>
-
 <br clear="both">
-<h2 align="left">📱 Islamic Insights Hub</h2>
-<br clear="both">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/947d7a47-382a-4c0c-b142-04fb91eb40cb" alt="Islamic Insights Hub" width="960" />
+</p>
 
-<div align="left">
-  
-### Project Overview
-**Duration:** Nov 2023 - Dec 2023  
-**Affiliation:** Sheikh Zayed Islamic Center, University of Karachi
+# 🌙 Islamic Insights Hub — A Gift for the Ummah 🌙
 
-**Features:**
-- 📖 Read the entire Quran
-- 🔍 Search Quranic Verses by user-friendly Urdu keyboard 
-- 📖 Explore 9 Authentic Hadith Collections
-- 🔍 Search Hadith by Number, Arabic, Urdu, English
+**Alhamdulillah!**  
+Discover the profound knowledge of the **Quran** and **Hadith** — all in one comprehensive, easy-to-use app.
 
+---
 
-**Tech:** Flutter, API-based architecture
+## ✨ Core Features
 
-**Source Code** <a href="https://github.com/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application/" target="_blank">Islamic-Insights-Hub-Application</a>
+📖 135+ Translations & Tafsirs in 40+ languages  
+🎙 20+ Renowned Reciters including Imams of the Sacred Mosques  
+🎧 Offline Audio Downloads  
+🔍 Powerful Search by Arabic & Translations  
+📌 Highlight & Save Favorite Verses  
+🔗 Share Ayahs Easily  
+🔤 Beautiful Custom Fonts via Google Fonts  
 
-**Contact:** [Islamic Insights Hub](mailto:smarsalanshah125@gmail.com)
+📚 9 Authentic Hadith Collections with advanced search:  
+Sahih al-Bukhari, Sahih Muslim, Jami` at-Tirmidhi, and more.
 
-**Video Presentation:** [Watch Video Presentation](https://youtu.be/SVu7d4OCWQM?si=BVLTXRhTuVFdF6EA)
-</div>
-<div align="center">
+---
 
+## 🌐 Explore Now
 
-https://github.com/user-attachments/assets/be1dbcec-12b5-4f4c-90b6-4d9428d01cce
+Visit 👉 [https://islamicvision.vercel.app/](https://islamicvision.vercel.app/)  
+and embark on your journey to spiritual enlightenment.
 
+---
 
+### Developed by  
+**Syed Muhammad Arsalan Shah Bukhari**
 
-</div>
+> *JazakAllahu Khairan.* May Allah increase us in beneficial knowledge and guide us all. Ameen.
 
-
-
-
+---
 
 ###
 
