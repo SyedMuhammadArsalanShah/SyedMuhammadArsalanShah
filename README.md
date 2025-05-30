@@ -150,7 +150,15 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
   </a>
 </div>
 <br clear="both">
-# 🌙 Hidayah Cloud  🌙
+
+
+
+<h1 align="center">
+  
+  # 🌙 Hidayah Cloud 🌙
+</h1>
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1166cd61-b712-47da-a6f3-60fc8ed1f1b2" width="180" height="180" alt="Hidayah Cloud Logo" style="border-radius: 50%;">
 </p>
