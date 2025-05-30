@@ -150,81 +150,73 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
   </a>
 </div>
 <br clear="both">
+# 🌙 Hidayah Cloud  🌙
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1166cd61-b712-47da-a6f3-60fc8ed1f1b2" width="180" height="180" alt="Hidayah Cloud Logo" style="border-radius: 50%;">
+</p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; max-width: 900px;">
 
-  <img src="https://github.com/user-attachments/assets/1166cd61-b712-47da-a6f3-60fc8ed1f1b2" 
-       alt="Hidayah Cloud" 
-       width="240" height="240" 
-       style="border-radius: 50%; object-fit: cover; flex-shrink: 0;" />
-
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height: 1.6;">
-
-# 🌙 Hidayah Cloud — Illuminating the Path of Divine Guidance 🌙
-
-**Assalamu Alaikum wa Rahmatullahi wa Barakatuh!**  
-Welcome to **Hidayah Cloud**, a unified Islamic knowledge ecosystem bringing together multiple specialized apps and projects — designed to serve the global Muslim Ummah with authentic Quranic, Hadith, Sunnah, and spiritual resources anytime, anywhere.
-
----
-
-## 🌙 About Hidayah Cloud
-
-**Hidayah Cloud** is a mushtarqa (collective) digital platform that integrates several focused Islamic applications under one umbrella brand. Each app delivers unique services to help Muslims connect deeply with their faith through technology, bridging traditional knowledge with modern digital accessibility.
+**السلام علیکم ورحمة الله وبرکاته**  
+Welcome to **Hidayah Cloud**, a blessed digital platform uniting a constellation of specialized Islamic apps — dedicated to serving the global Muslim Ummah with authentic Quranic, Hadith, Sunnah, and spiritual resources, accessible anytime, anywhere, by the grace of Allah ﷻ.
 
 ---
 
 ## 🌟 Our Vision
 
-> **At Hidayah Cloud, our vision is to empower the global Muslim Ummah by delivering innovative, authentic, and accessible Islamic technology solutions. We strive to bridge the gap between traditional Islamic knowledge and modern digital tools, enabling meaningful spiritual growth, knowledge sharing, and unity anytime, anywhere.**
+> *“And whoever desires guidance — Allah will guide him.”* (Quran 2:272)  
+>  
+> At **Hidayah Cloud**, our vision is to empower the global Muslim Ummah by providing cutting-edge, authentic, and accessible Islamic technology solutions.  
+>  
+> We aim to bridge the rich legacy of traditional Islamic knowledge with modern digital innovation — nurturing spiritual growth, knowledge-sharing, and unity across the world.  
+>  
+> By harnessing technology as a means, we aspire to illuminate the hearts and minds of Muslims everywhere, making Divine guidance easily reachable anytime, anywhere, by the mercy of Allah ﷻ.
 
 ---
 
 ## 🚀 Featured Projects
 
-Explore our fast, responsive, and user-friendly web applications hosted on Vercel:
+Explore our fast, seamless, and user-friendly web applications — hosted with care on Vercel:
 
-| Project          | Description                                  | Link                                             |
-| ---------------- | -------------------------------------------- | ------------------------------------------------ |
-| **IslamicVision**  | Curated Islamic knowledge and insightful articles | [islamicvision.vercel.app](https://islamicvision.vercel.app/)  |
-| **MushafCloud**    | Comprehensive digital Quran platform           | [mushafcloud.vercel.app](https://mushafcloud.vercel.app/)      |
-| **SunnahVision**   | Practical guidance based on the Sunnah          | [sunnahvision.vercel.app](https://sunnahvision.vercel.app/)    |
-| **Quran-Affasy**   | Quran recitations by Mishary Al-Afasy            | [quran-affasy.vercel.app](https://quran-affasy.vercel.app/)    |
-| **Mushaf-React**   | Modern React-based Quran reading experience      | [mushaf-react.vercel.app](https://mushaf-react.vercel.app/)    |
-
----
-
-## 🔍 Core Features Across Platforms
-
-- 📖 Extensive Quran translations and tafsirs in 40+ languages  
-- 🎙 20+ renowned reciters, including Imams of the Sacred Mosques  
-- 📚 Authentic Hadith collections with advanced search features  
-- 🎧 Offline audio downloads and seamless streaming  
-- 🔍 Powerful search by Arabic and translated text  
-- 📌 Highlight, bookmark, and share your favorite verses and Hadiths  
-- 🌐 Fully responsive and accessible on all devices  
+| Project          | Description                                   | Live Link                                              |
+|------------------|-----------------------------------------------|-------------------------------------------------------|
+| **IslamicVision** | Curated Islamic knowledge and insightful articles | [https://islamicvision.vercel.app/](https://islamicvision.vercel.app/)           |
+| **MushafCloud**   | Comprehensive digital Mushaf (Quran) platform  | [https://mushafcloud.vercel.app/](https://mushafcloud.vercel.app/)             |
+| **SunnahVision**  | Practical, authentic Sunnah guidance            | [https://sunnahvision.vercel.app/](https://sunnahvision.vercel.app/)            |
+| **Quran-Affasy**  | Soul-stirring recitations by Mishary Al-Afasy  | [https://quran-affasy.vercel.app/](https://quran-affasy.vercel.app/)            |
+| **Mushaf-React**  | Modern, intuitive Quran reading experience      | [https://mushaf-react.vercel.app/](https://mushaf-react.vercel.app/)            |
 
 ---
 
-## 🤲 JazakAllahu Khairan
+## 🔍 Core Features
 
-May Allah accept these efforts as a means of spreading knowledge, guidance, and spiritual upliftment to the global Muslim community.
+- 📖 40+ Quran translations & tafsirs from trusted scholars  
+- 🎙 20+ renowned reciters including Imams of the Two Holy Mosques  
+- 📚 Authentic Hadith collections with advanced, precise search  
+- 🎧 Seamless audio streaming with offline download options  
+- 🔍 Powerful search in Arabic and multiple translations  
+- 📌 Highlight, bookmark, and share treasured verses & Hadiths  
+- 🌐 Fully responsive design — accessible on all devices, anytime  
+
+---
+
+## 🤲 A Prayer of Gratitude
+
+May Allah ﷻ accept this humble endeavor, make it a source of guidance and benefit for the Ummah, and unite our hearts on His straight path.  
+*JazakAllahu Khairan* for your support and dua.
 
 ---
 
 ### Developed by  
 **Syed Muhammad Arsalan Shah Bukhari**  
-Visiting Instructor, Mobile App Development | Data Scientist | Islamic Tech Enthusiast  
+Visiting Instructor – Mobile App Development | Data Scientist | Islamic Technology Enthusiast  
 
-> *“O Allah, grant us true hidayah and beneficial knowledge, and unite our hearts upon Your path.”* Ameen.
+> *“O Allah, illuminate our hearts with true guidance, increase us in beneficial knowledge, and unite us upon Your deen.”* Ameen.
 
 ---
 
 <p align="center">  
-  <em>Connect, Learn, and Grow with Hidayah Cloud</em>  
+  <em>Connect, Learn, and Grow with Hidayah Cloud — A Light on Your Path</em>  
 </p>
-
-  </div>
-</div>
 <br clear="both">
 
 <!--
