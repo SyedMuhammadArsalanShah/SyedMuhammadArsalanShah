@@ -150,7 +150,6 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
   </a>
 </div>
 <br clear="both">
-
 <h1 align="center">
   🌙 Hidayah Cloud 🌙
 </h1>
@@ -180,10 +179,10 @@ We strive to empower Muslims with technology rooted in faith, serving as a beaco
 
 At **Hidayah Cloud**, we envision a world where every Muslim can effortlessly access authentic Islamic knowledge. We aim to:
 
-- Bridge traditional Islamic scholarship with modern digital solutions
-- Encourage personal spiritual growth and collective unity
-- Serve the Ummah through innovative, meaningful applications
-- Use technology as a means to spread light, not distraction
+- Bridge traditional Islamic scholarship with modern digital solutions  
+- Encourage personal spiritual growth and collective unity  
+- Serve the Ummah through innovative, meaningful applications  
+- Use technology as a means to spread light, not distraction  
 
 ---
 
@@ -191,13 +190,13 @@ At **Hidayah Cloud**, we envision a world where every Muslim can effortlessly ac
 
 All our apps are optimized for performance and user experience — hosted securely on [Vercel](https://vercel.com/):
 
-| 🧩 Project         | 💡 Description                                     | 🔗 Live Link |
-|-------------------|----------------------------------------------------|--------------|
-| **IslamicVision** | Curated Islamic articles and timeless reflections  | [Visit](https://islamicvision.vercel.app/) |
-| **MushafCloud**   | A dynamic, full-featured digital Quran experience   | [Visit](https://mushafcloud.vercel.app/) |
-| **SunnahVision**  | Authentic daily Sunnah & lifestyle guidance         | [Visit](https://sunnahvision.vercel.app/) |
-| **Quran-Affasy**  | Beautiful Quran recitations by Mishary Al-Afasy    | [Visit](https://quran-affasy.vercel.app/) |
-| **Mushaf-React**  | Interactive Quran reading app built with React      | [Visit](https://mushaf-react.vercel.app/) |
+| 🧩 Project         | 💡 Description                                     | 🔗 Live URL |
+|-------------------|----------------------------------------------------|-------------|
+| **IslamicVision** | Curated Islamic articles and timeless reflections  | https://islamicvision.vercel.app/ |
+| **MushafCloud**   | A dynamic, full-featured digital Quran experience   | https://mushafcloud.vercel.app/ |
+| **SunnahVision**  | Authentic daily Sunnah & lifestyle guidance         | https://sunnahvision.vercel.app/ |
+| **Quran-Affasy**  | Beautiful Quran recitations by Mishary Al-Afasy    | https://quran-affasy.vercel.app/ |
+| **Mushaf-React**  | Interactive Quran reading app built with React      | https://mushaf-react.vercel.app/ |
 
 ---
 
@@ -233,7 +232,6 @@ May Allah ﷻ accept this initiative as a means of guidance and reward. May He b
 <p align="center">
   <em>Connect, Learn, and Grow with Hidayah Cloud — A Light on Your Path</em>
 </p>
-
 <br clear="both">
 
 <!--
