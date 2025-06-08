@@ -105,10 +105,10 @@ Hidayah Cloud, Islamic knowledge platform, Quran translations, Hadith online, Qu
 <br clear="both">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img height="150" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
-  <img height="150" src="images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
-  <img height="150" src="images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
-  <img height="150" src="images/i4.jpg" alt="Dua Image 4" style="margin: 0 20px;" />
+  <img height="200" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
+  <img height="200" src="images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
+  <img height="200" src="images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
+  <img height="200" src="images/i4.jpg" alt="Dua Image 4" style="margin: 0 20px;" />
 </div>
 
 ---
