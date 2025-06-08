@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/SMAS-Cover.png)
 
 <br clear="both">
+
 <div align="center">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SyedMuhammadArsalanShah.SyedMuhammadArsalanShah&"  />
@@ -9,7 +10,10 @@
 
 </div>
 
+---
+
 ## 🌟 Assalam U Alaikum! 👋  
+
 ### I'm **Syed Muhammad Arsalan Shah** ✍
 
 🔹 **IT Instructor | Software Developer | Researcher**  
@@ -21,59 +25,124 @@
 
 ---
 
-
+<br clear="both">
 
 <br clear="both">
 
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1166cd61-b712-47da-a6f3-60fc8ed1f1b2" width="300" height="300" alt="Hidayah Cloud Logo" style="border-radius: 50%;">
+</p>
 
+---
 
-<h2 align="left">📖 Best Quranic Duas & Motivational Ayahs</h2>
+<h1 align="center">
+  🌙 Hidayah Cloud 🌙
+</h1>
 
+*“Indeed, Allah guides whom He wills to a straight path.”* — **Qur’an 2:213**
 
+Welcome to **Hidayah Cloud**, your divine gateway to authentic Islamic knowledge. In this blessed era of technology, we strive to bring the light of the Qur’an, Sunnah, and spiritual wisdom directly to your fingertips — anytime, anywhere.
+
+🔗 **Begin your journey of guidance and enlightenment:** [https://hidayahcloud.vercel.app/](https://hidayahcloud.vercel.app/)
+
+---
+
+## 🌿 Discover Our Blessed Projects
+
+- IslamicVision  
+- MushafCloud  
+- SunnahVision  
+- Quran-Affasy  
+- Mushaf-React  
+
+Each crafted with care, to help you grow closer to Allah ﷻ and deepen your understanding of His words.
+
+---
+
+## 🤲 A Prayer for All Seekers of Truth
+
+> **رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ**  
+> *“Our Lord, let not our hearts deviate after You have guided us, and grant us mercy from Yourself. Indeed, You are the Bestower.”* — Qur’an 3:8
+
+May Allah ﷻ illuminate your path, accept your efforts, and bless you abundantly.
+
+---
+
+## 👨‍💻 Developed with sincere intention by
+
+**Syed Muhammad Arsalan Shah Bukhari**  
+*Visiting Instructor | Data Scientist | Islamic Technology Enthusiast*
+
+> *“O Allah, guide us all to the straight path, increase us in knowledge and wisdom, and unite us upon Your deen.”* Ameen.
+
+---
+
+## ✨ You Are Invited
+
+> **Step into the light of guidance. Visit [Hidayah Cloud](https://hidayahcloud.vercel.app/)  
+> and nourish your soul with knowledge, faith, and inspiration.**  
+>
+> May this platform be a means of blessing for you and your loved ones — Ameen.
+
+---
+
+**May Allah’s guidance and mercy be upon you always. Ameen.**
+
+---
+
+<br clear="both">
+
+<br clear="both">
+<!--
+SEO Keywords:
+Hidayah Cloud, Islamic knowledge platform, Quran translations, Hadith online, Quran recitations, Islamic apps, cross-platform Islamic tools, digital Quran, Sunnah guidance
+-->
+
+<h2 align="center">📖 Best Quranic Duas & Motivational Ayahs</h2>
 
 <br clear="both">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img height="200" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
-  <img height="200" src="images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
-  <img height="200" src="images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
-  <img height="200" src="images/i4.jpg" alt="Dua Image 4" style="margin: 0 20px;" />
+  <img height="150" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
+  <img height="150" src="images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
+  <img height="150" src="images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
+  <img height="150" src="images/i4.jpg" alt="Dua Image 4" style="margin: 0 20px;" />
 </div>
 
+---
 
+<br clear="both">
 
+<br clear="both">
+
+<h2 align="center">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي | Mishary Alafasy Ruqiah </h2>
+
+<https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5>
+
+---
+
+<br clear="both">
 
 <br clear="both">
 <div align="center">
   
-  ## My Recent Spotify Favorites
+## My Recent Spotify Favorites
+
   <a href="https://open.spotify.com/user/31dcu6tk43oxl6bmqwpfwcvvmmo4"  target="_blank">
-    
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dcu6tk43oxl6bmqwpfwcvvmmo4&count=7&width=700)
   </a>
 </div>
-<h2 align="left">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي | Mishary Alafasy Ruqiah </h2>
 
-
-
-
-
-https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
-
-
-
-
+---
 
 <br clear="both">
 
-
 <br clear="both">
 
-<h2 align="left">🚀 Professional Skills</h2>
-
-
+<h2 align="center">🚀 Professional Skills</h2>
 
 <br clear="both">
 
@@ -114,10 +183,29 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
 </div>
 
-###
+---
+
 <br clear="both">
 
-<h2 align="left">🌐 Connect With Me</h2>
+<br clear="both">
+
+<h2 align="center"> 📈 My GitHub Insights 📊</h2>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadArsalanShah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedMuhammadArsalanShah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SyedMuhammadArsalanShah&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadArsalanShah&radius=16&theme=react&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
+<br clear="both">
+
+<br clear="both">
+<h2 align="center">🌐 Connect With Me</h2>
 
 ###
 
@@ -149,113 +237,8 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
   </a>
 </div>
-<br clear="both">
-<h1 align="center">
-  🌙 Hidayah Cloud 🌙
-</h1>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1166cd61-b712-47da-a6f3-60fc8ed1f1b2" width="180" height="180" alt="Hidayah Cloud Logo" style="border-radius: 50%;">
-</p>
-
-<p align="center">
-  <strong>Your Gateway to Authentic, Accessible Islamic Knowledge — Anytime, Anywhere</strong>
-</p>
 
 ---
-
-## 🌐 About Hidayah Cloud
-
-**Hidayah Cloud** is a faith-driven digital ecosystem that hosts a constellation of modern, high-performance Islamic applications. Our mission is to deliver authentic Quranic, Hadith, Sunnah, and spiritual resources to the global Muslim Ummah through intuitive, accessible, and responsive platforms — all by the grace of Allah ﷻ.
-
-We strive to empower Muslims with technology rooted in faith, serving as a beacon of light for those seeking divine guidance in the digital age.
-
----
-
-## 🌟 Vision & Mission
-
-> _“And whoever desires guidance – Allah will guide him.”_  
-> **[Quran 2:272]**
-
-At **Hidayah Cloud**, we envision a world where every Muslim can effortlessly access authentic Islamic knowledge. We aim to:
-
-- Bridge traditional Islamic scholarship with modern digital solutions  
-- Encourage personal spiritual growth and collective unity  
-- Serve the Ummah through innovative, meaningful applications  
-- Use technology as a means to spread light, not distraction  
-
----
-
-## 🚀 Featured Web Apps
-
-All our apps are optimized for performance and user experience — hosted securely on [Vercel](https://vercel.com/):
-
-| 🧩 Project         | 💡 Description                                     | 🔗 Live URL |
-|-------------------|----------------------------------------------------|-------------|
-| **IslamicVision** | Curated Islamic articles and timeless reflections  | https://islamicvision.vercel.app/ |
-| **MushafCloud**   | A dynamic, full-featured digital Quran experience   | https://mushafcloud.vercel.app/ |
-| **SunnahVision**  | Authentic daily Sunnah & lifestyle guidance         | https://sunnahvision.vercel.app/ |
-| **Quran-Affasy**  | Beautiful Quran recitations by Mishary Al-Afasy    | https://quran-affasy.vercel.app/ |
-| **Mushaf-React**  | Interactive Quran reading app built with React      | https://mushaf-react.vercel.app/ |
-
----
-
-## 🔍 Key Features
-
-- 📖 **40+ Quran Translations & Tafsir** from renowned scholars  
-- 🎙 **20+ World-Famous Reciters** including Imams of the Haramain  
-- 📚 **Authentic Hadith Collections** with advanced filtering & search  
-- 🎧 **Audio Playback & Downloads** — Online and Offline capabilities  
-- 🌐 **Multilingual Search Engine** — Arabic, English, Urdu & more  
-- 📌 **Verse Bookmarking & Sharing** — Save and spread divine words  
-- 📱 **Fully Responsive Interface** — Mobile, tablet, and desktop-ready  
-
----
-
-## 🤲 Gratitude & Duas
-
-May Allah ﷻ accept this initiative as a means of guidance and reward. May He bless all those who contribute, share, or benefit from it.
-
-> *JazakAllahu Khairan* for your continuous support, feedback, and heartfelt duas.
-
----
-
-## 👨‍💻 Developed by
-
-**Syed Muhammad Arsalan Shah Bukhari**  
-*Visiting Instructor – Mobile App Development | Data Scientist | Islamic Technology Enthusiast*
-
-> _“O Allah, illuminate our hearts with true guidance, increase us in beneficial knowledge, and unite us upon Your Deen.”_ Ameen.
-
----
-
-<p align="center">
-  <em>Connect, Learn, and Grow with Hidayah Cloud — A Light on Your Path</em>
-</p>
-<br clear="both">
-
-<!--
-SEO Keywords:
-Hidayah Cloud, Islamic knowledge platform, Quran translations, Hadith online, Quran recitations, Islamic apps, cross-platform Islamic tools, digital Quran, Sunnah guidance
--->
-
-
-<h2 align="left"> 📈 My GitHub Insights 📊</h2>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadArsalanShah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedMuhammadArsalanShah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SyedMuhammadArsalanShah&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadArsalanShah&radius=16&theme=react&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-
-
-
 
 <!-- 
 <div align="center">
@@ -263,7 +246,3 @@ Hidayah Cloud, Islamic knowledge platform, Quran translations, Hadith online, Qu
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedMuhammadArsalanShah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SyedMuhammadArsalanShah&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&card_width=600" height="200" alt="streak graph"  />
 </div> -->
-
-
-
-
